@@ -19,5 +19,7 @@
   "devDependencies": {
     "electron": "^16.0.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "python-shell": "^5.0.0"
+  }
 }
